@@ -37,11 +37,11 @@ features                                  :
 
   - title                                 : Calculate
     description                           : Marea helps you calculate and price land areas. You can also assign prices, perimeters and view distances between points.
-    fontawesome_icon_name                 : skew
+    fontawesome_icon_name                 : calculator
 
   - title                                 : Store
     description                           : Store your frequently tracked areas into the app.
-    fontawesome_icon_name                 : folder-arrow-down
+    fontawesome_icon_name                 : folder
 
   - title                                 : Share
     description                           : Share your land areas as KML files

@@ -4,7 +4,7 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-#Marea: Terms and Conditions
+# Marea: Terms and Conditions
 
 By using Marea app or this website you agree to terms and conditions provided below. Terms of use may change in the future, check this page on every app update.
 
@@ -28,7 +28,7 @@ The summary below highlights some of the key points of this EULA, just to give y
 
 1) App is licensed, not sold, to you. You get a non-transferable license to use the App on any iPhone, iPad or iPod touch that you own or control. 2) You may not redistribute the App (e.g. on a network, where it could be used by multiple users) or resell it. 3) Do not copy, decompile, reverse engineer, disassemble, or try to access or modify the source code of the App. If you do, We may terminate this license, and you may be subject to prosecution and damages. 4) In using the App if you link to third party service providers or web sites, We are not responsible for their services, content, reliability and policies. 5) We may change, suspend, remove, disable or limit access to any services offered by Us, or third-parties, at any time without notice, and without liability. 6) App comes with NO WARRANTY; it is provided on “as is and “as available basis. You use it at your own risk. We will not be liable for any losses or damages suffered by you, direct indirect or consequential, by your use of the App. 7) Use of this App is governed by the laws of Spain, and possibly also other local, state, national, or international laws.
 
-#Subscription Terms
+# Subscription Terms
 – The subscription auto-renews at the end of each term.
 – Payment will be charged to iTunes Account at confirmation of purchase.
 – The subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
