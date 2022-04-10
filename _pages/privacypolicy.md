@@ -4,57 +4,36 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+#Marea: Terms and Conditions
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+By using Marea app or this website you agree to terms and conditions provided below. Terms of use may change in the future, check this page on every app update.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Marea app is software, it is complex and may contain bugs (we are really sorry if you have experienced one). While we are doing our best we cannot guarantee that our software will function in all situations and circumstances.
 
-<br>
+Marea: Privacy Policy This policy applies to all information collected or submitted on Marea’s iPhone app and any other devices and platforms.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+Where is my Marea data stored? Data in the Marea app is private and it is stored only on your mobile device. We do not store or process your data on our servers.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+Data in Marea might also be automatically saved in Apple’s iCloud as part of iCloud backup of your device if you have enabled iCloud backup and there is enough free space for backup in your iCloud account).
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+There are no user accounts on Marea.
 
-<br>
+Changes and Updates If Marea makes changes to Terms and Conditions or Privacy Policy, these changes will be posted on the site in a timely manner. We reserve the right to modify this privacy policy at any time, so please review it frequently (at least on every app update).
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+In case of a business transaction in which a portion or all of Marea business is acquired, we will notify you as described above in this paragraph.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+Terms of Use Marea (“App”) is distributed by Oval Software Oy (“We”, “Us”) under Apple’s standard software license for iOS apps - the App Store Licensed Application End User License Agreement (EULA); you can read its full version here
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+The summary below highlights some of the key points of this EULA, just to give you the general idea:
 
-<br>
+1) App is licensed, not sold, to you. You get a non-transferable license to use the App on any iPhone, iPad or iPod touch that you own or control. 2) You may not redistribute the App (e.g. on a network, where it could be used by multiple users) or resell it. 3) Do not copy, decompile, reverse engineer, disassemble, or try to access or modify the source code of the App. If you do, We may terminate this license, and you may be subject to prosecution and damages. 4) In using the App if you link to third party service providers or web sites, We are not responsible for their services, content, reliability and policies. 5) We may change, suspend, remove, disable or limit access to any services offered by Us, or third-parties, at any time without notice, and without liability. 6) App comes with NO WARRANTY; it is provided on “as is and “as available basis. You use it at your own risk. We will not be liable for any losses or damages suffered by you, direct indirect or consequential, by your use of the App. 7) Use of this App is governed by the laws of Spain, and possibly also other local, state, national, or international laws.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+#Subscription Terms
+– The subscription auto-renews at the end of each term.
+– Payment will be charged to iTunes Account at confirmation of purchase.
+– The subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+– Account will be charged for renewal within 24-hours prior to the end of the current period.
+– You may manage your subscription and turn off auto-renewal by going to your Account Settings after purchase. – Any unused portion of a free trial period will be forfeited if you purchase a subscription.
+– Instructions on how to cancel a subscription can be found at the following link: https://support.apple.com/en-us/HT202039.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
-
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+© 2021 Oval Software. All Rights Reserved.
